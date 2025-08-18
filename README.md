@@ -1,6 +1,6 @@
 # Technical information
 
-When creating the zip file, I excluded the node_modules folder. Please note that I used Yarn for managing my dependencies.
+Please create a .env file and add key sent via email
 
 It took me just over three hours to complete this project, mainly due to issues with configuring Jest. However, I did manage to add one or two tests to meet the requirement. The implementation time does not include the planning I did beforehand, which involved jotting down some wireframes and reading up on SWR, which I used for caching.
 
