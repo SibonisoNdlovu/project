@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "FixMate",
+    "slug": "fixmate",
+    "scheme": "fixmate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {"backgroundColor":"#101820"},
+    "ios": {"supportsTablet": true, "bundleIdentifier":"za.co.codepulse.fixmate"},
+    "android": {"package":"za.co.codepulse.fixmate", "permissions":[]}
+  }
+}
