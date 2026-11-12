@@ -1,1 +1,9 @@
-{"extends":"expo/tsconfig.base","compilerOptions":{"strict":true,"noEmit":true,"types":["react"]}}
+
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "noEmit": true,
+    "types": ["react", "node"]
+  }
+}
